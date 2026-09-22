@@ -57,7 +57,11 @@ AI-AML-Guard-v3/
 ├── streamlit_app.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
+├── .gitignore<img width="1539" height="756" alt="Screenshot 2026-09-22 184933" src="https://github.com/user-attachments/assets/7174cf97-3c0d-49bc-a0f1-7dc9d13740b2" />
+<img width="1537" height="905" alt="Screenshot 2026-09-22 184951" src="https://github.com/user-attachments/assets/b0c8126a-9bc8-4037-9b99-97f852725364" />
+<img width="1521" height="861" alt="Screenshot 2026-09-22 185009" src="https://github.com/user-attachments/assets/146c9f61-78a6-4c53-ab28-f6406582a707" />
+<img width="1507" height="721" alt="Screenshot 2026-09-22 185032" src="https://github.com/user-attachments/assets/6cf26bc5-3532-4b44-8b11-336ffc73e6d1" />
+
 ├── .streamlit/
 │   └── config.toml
 ├── app/
