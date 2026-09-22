@@ -1,4 +1,4 @@
-# AI-AML Guard v2
+# AI-AML Guard v3
 
 Intelligent Anti-Money Laundering and Transaction Monitoring System built around the SAML-D synthetic AML transaction dataset.
 
@@ -16,7 +16,7 @@ Intelligent Anti-Money Laundering and Transaction Monitoring System built around
 - Data-quality checks
 
 ## Dataset
-Download SAML-D separately and place the CSV at:
+Download SAML-D separately and place the CSV at: https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml
 
 `data/raw/SAML-D.csv`
 
@@ -25,7 +25,7 @@ Do not commit the large dataset to GitHub. Check the dataset's current license a
 ## Windows setup
 
 ```powershell
-cd "D:\AML PROJECT"
+cd AI-AML-Guard-v3
 python -m venv .venv
 .venv\Scripts\activate
 python -m pip install --upgrade pip
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 Place your dataset here:
 
-`D:\AML PROJECT\data\raw\SAML-D.csv`
+data\raw\SAML-D.csv`
 
 Run:
 
@@ -45,7 +45,7 @@ streamlit run streamlit_app.py
 ## If your CSV is elsewhere
 Enter its full path in the sidebar, for example:
 
-`D:\AML PROJECT\data\raw\SAML-D.csv`
+`D:\AI-AML-Guard-v3\data\raw\SAML-D.csv`
 
 ## Recommended starting point
 Use 100,000–250,000 rows for a normal laptop. Increase to 500,000 if memory and CPU are sufficient.
@@ -53,7 +53,7 @@ Use 100,000–250,000 rows for a normal laptop. Increase to 500,000 if memory an
 ## Project structure
 
 ```text
-AI-AML-Guard-v2/
+AI-AML-Guard-v3/
 ├── streamlit_app.py
 ├── requirements.txt
 ├── README.md
