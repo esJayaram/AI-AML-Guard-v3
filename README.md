@@ -78,4 +78,8 @@ AI-AML-Guard-v3/
 ## Important
 This project is for research, demonstration and portfolio use. It is not a production AML compliance system and should not be used as the sole basis for financial-crime decisions.
 
+<img width="1539" height="756" alt="Screenshot 2026-09-22 184933" src="https://github.com/user-attachments/assets/30dafb58-37f9-4aa0-839e-fda66e49fc51" />
+<img width="1537" height="905" alt="Screenshot 2026-09-22 184951" src="https://github.com/user-attachments/assets/5c19ee05-917b-4c41-bf75-e43eabf2adf8" />
+<img width="1521" height="861" alt="Screenshot 2026-09-22 185009" src="https://github.com/user-attachments/assets/75722036-b19e-4c42-9c7d-a6fa1bc74a89" />
+<img width="1507" height="721" alt="Screenshot 2026-09-22 185032" src="https://github.com/user-attachments/assets/e28f7bb7-27b2-4291-a530-95a9e6ceb0ec" />
 
