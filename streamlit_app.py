@@ -11,7 +11,7 @@ from app.detection import add_rule_features, make_explanation, risk_band
 from app.ml import anomaly_scores, supervised_model
 from app.network import build_network
 
-st.set_page_config(page_title='AI-AML Guard v2', page_icon='🛡️', layout='wide')
+st.set_page_config(page_title='AI-AML Guard v3', page_icon='🛡️', layout='wide')
 
 st.markdown('''
 <style>
